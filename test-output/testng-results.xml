@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24" started-at="2023-07-27T10:35:17Z" finished-at="2023-07-27T10:35:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24" started-at="2023-07-27T10:35:17Z" finished-at="2023-07-27T10:35:17Z">
+      <class name="Demo.Actitime.createcust">
+        <test-method status="PASS" signature="craetecustomer()[pri:0, instance:Demo.Actitime.createcust@3c756e4d]" name="craetecustomer" duration-ms="7" started-at="2023-07-27T16:05:17Z" finished-at="2023-07-27T16:05:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- craetecustomer -->
+      </class> <!-- Demo.Actitime.createcust -->
+      <class name="Demo.Actitime.creattask">
+        <test-method status="PASS" signature="craetetasks()[pri:0, instance:Demo.Actitime.creattask@402f32ff]" name="craetetasks" duration-ms="1" started-at="2023-07-27T16:05:17Z" finished-at="2023-07-27T16:05:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- craetetasks -->
+      </class> <!-- Demo.Actitime.creattask -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
